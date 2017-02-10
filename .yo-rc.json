@@ -1,0 +1,8 @@
+{
+  "generator-ngx-module": {
+    "promptValues": {
+      "projectName": "yo-ngx-lib",
+      "repoUrl": "https://github.com/username/repo"
+    }
+  }
+}

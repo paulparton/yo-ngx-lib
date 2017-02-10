@@ -1,0 +1,29 @@
+{
+  "name": "yo-ngx-lib",
+  "version": "1.0.0",
+  "description": "Yo Ngx Lib Angular Module",
+  "main": "bundles/yo-ngx-lib.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "angular",
+    "ngx"
+  ],
+  "author": "Paul Parton (paul.parton@agriwebb.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "homepage": "https://github.com/username/repo",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "^2.4.0",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.3",
+    "zone.js": "^0.7.2"
+  }
+}
